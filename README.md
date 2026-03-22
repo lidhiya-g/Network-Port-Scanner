@@ -3,18 +3,22 @@
 A GUI-based Network Port Scanner developed using Python and CustomTkinter. This application scans common ports on a target IP address or domain and displays open ports along with their associated services in a structured interface.
 
 # Features
+```
 1.Graphical user interface built with CustomTkinter
 2.Multi-threaded port scanning for improved performance
 3.Scans commonly used network ports
 4.Displays open ports with corresponding service names
 5.Real-time progress tracking and scan speed display
 6.Start, Stop, and Clear scan controls
+```
 
 # Technologies Used
+```
 Python
 Socket Programming
 Threading (ThreadPoolExecutor)
 CustomTkinter
+```
 
 # Installation and Usage
 ```
