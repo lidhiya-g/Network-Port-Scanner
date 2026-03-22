@@ -25,11 +25,10 @@ python scanner.py
 ```
 
 # Project Structure
-```Network-Port-Scanner/
 ```
-```├── Network_Port_Scanner_App.py
-```
-```├── README.md
+Network-Port-Scanner/
+├── Network_Port_Scanner_App.py
+├── README.md
 ```
 
 # Ports Covered
