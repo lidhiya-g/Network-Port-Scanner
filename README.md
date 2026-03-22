@@ -33,7 +33,7 @@ Network-Port-Scanner/
 
 # Ports Covered
 The application scans the following commonly used ports:
-
+```
 21 (FTP)
 22 (SSH)
 23 (Telnet)
@@ -46,6 +46,7 @@ The application scans the following commonly used ports:
 3306 (MySQL)
 3389 (RDP)
 8080 (HTTP-Alt)
+```
 
 # How It Works
 The scanner uses Python socket connections to attempt communication with each port on the target system. If a connection is successfully established, the port is marked as open. Multi-threading is used to perform scans concurrently, improving speed and efficiency. The interface updates in real time with scan progress and results.
