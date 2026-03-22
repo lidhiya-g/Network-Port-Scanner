@@ -16,6 +16,18 @@ Socket Programming
 Threading (ThreadPoolExecutor)
 CustomTkinter
 
+# Installation and Usage
+git clone https://github.com/lidhiya-g/Network-Port-Scanner.git
+cd Network-Port-Scanner
+pip install customtkinter
+python scanner.py
+
+# Project Structure
+Network-Port-Scanner/
+│
+├── Network_Port_Scanner_App.py
+├── README.md
+
 # Ports Covered
 The application scans the following commonly used ports:
 
